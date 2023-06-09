@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Proyecto 1",
+    "description": "Descripción del proyecto 1",
+    "image": "/images/project1.jpg",
+    "demoLink": "https://example.com/project1",
+    "githubLink": "https://github.com/username/project1"
+  },
+  {
+    "id": 2,
+    "title": "Proyecto 2",
+    "description": "Descripción del proyecto 2",
+    "image": "/images/project2.jpg",
+    "demoLink": "https://example.com/project2",
+    "githubLink": "https://github.com/username/project2"
+  }
+]
